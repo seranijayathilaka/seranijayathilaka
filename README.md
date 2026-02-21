@@ -14,7 +14,6 @@
 - 📡 **IoT & Edge-to-Cloud Platforms**
 - 🤖 **Machine Learning & Computer Vision**
 
-<br><br><br>
 ---
 ## 🛠️ Tech Skills
 

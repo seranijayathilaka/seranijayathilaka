@@ -54,18 +54,8 @@
 <p align="left">
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/seranijayathilaka" target="_blank">
+<a href="https://www.linkedin.com/in/serani-jayathilaka-05597b219?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHhLvmcLOS1ijzrpG8s%2BMWw%3D%3D" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<!-- Email -->
-<a href="mailto:seranij15@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<!-- Twitter (optional) -->
-<a href="https://twitter.com/yourhandle" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
 <!-- GitHub (optional duplicate) -->

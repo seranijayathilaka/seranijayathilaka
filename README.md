@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Serani Jayathilaka
+
+**Software Engineer | AI Engineer -Computer Vision | Distributed Systems & IoT Platforms**
 
 <!--
 **seranijayathilaka/seranijayathilaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
